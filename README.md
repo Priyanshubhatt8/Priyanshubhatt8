@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Solidity hardhat web3 webdevelopment**
+- 🌱 I’m currently learning **Solidity, Hardhat, Web3, Webdevelopment**
 
 - 👯 I’m looking to collaborate on **Projects**
 
