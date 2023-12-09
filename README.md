@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshubhatt8&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshubhatt8" /> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Solidity, Hardhat, Web3, Webdevelopment**
+- 🌱 I’m currently learning **javascript, react, next, Webdevelopment**
 
 - 👯 I’m looking to collaborate on **Projects**
 
